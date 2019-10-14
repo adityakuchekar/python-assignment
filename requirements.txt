@@ -1,0 +1,5 @@
+Django==2.1.5
+djangorestframework==3.9.1
+pymongo[tls,srv]==3.6.1
+django-decouple==2.1
+ipdb==0.12.2
